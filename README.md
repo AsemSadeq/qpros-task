@@ -43,13 +43,7 @@ This project demonstrates a basic login page using Next.js.
 
 3. **Configure Environment Variables**:
 
-    Create/Change a `.env` file in the root directory and add the following:
-
-    ```env
-    MONGODB_URI=mongodb://<host>/<database>
-    ```
-
-    Replace `host` and `database` with your host and database.
+    Create `.env` file in the root directory and add fill it with same variables in the `.env.sample`
 
 4. **Run the Application**:
 
